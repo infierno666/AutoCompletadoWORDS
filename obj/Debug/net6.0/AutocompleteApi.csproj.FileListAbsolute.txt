@@ -1,0 +1,5 @@
+C:\Users\MAQ\Desktop\AutocompleteApi\obj\Debug\net6.0\AutocompleteApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAQ\Desktop\AutocompleteApi\obj\Debug\net6.0\AutocompleteApi.AssemblyInfoInputs.cache
+C:\Users\MAQ\Desktop\AutocompleteApi\obj\Debug\net6.0\AutocompleteApi.AssemblyInfo.cs
+C:\Users\MAQ\Desktop\AutocompleteApi\obj\Debug\net6.0\AutocompleteApi.csproj.CoreCompileInputs.cache
+C:\Users\MAQ\Desktop\AutocompleteApi\obj\Debug\net6.0\AutocompleteApi.MvcApplicationPartsAssemblyInfo.cache

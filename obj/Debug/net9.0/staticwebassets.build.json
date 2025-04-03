@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "xEx6WXINI4K/Val+UWW/95Ro1kTVohEbi+Lx8sk+WsE=",
+  "Source": "AutocompleteApi",
+  "BasePath": "_content/AutocompleteApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutocompleteApi\\wwwroot",
+      "Source": "AutocompleteApi",
+      "ContentRoot": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\",
+      "BasePath": "_content/AutocompleteApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\02zidla84v-401knxayk5.gz",
+      "SourceId": "AutocompleteApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AutocompleteApi",
+      "RelativePath": "styles#[.{fingerprint=401knxayk5}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dijejsk25p",
+      "Integrity": "Rf19rhLrxeQc+/NSScF89FF1862Uh8H9lia85zo1nr8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\1ni14haqy3-0pv310ch5g.gz",
+      "SourceId": "AutocompleteApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AutocompleteApi",
+      "RelativePath": "index#[.{fingerprint=0pv310ch5g}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z3mn8icj16",
+      "Integrity": "r98Z7wMW/F1u33QcMbOPIlnuBauPQ+V9WBUzzpA4ovE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\ptzbebwk1d-s0tlrcuktw.gz",
+      "SourceId": "AutocompleteApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AutocompleteApi",
+      "RelativePath": "app#[.{fingerprint=s0tlrcuktw}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gwl2ec9fab",
+      "Integrity": "YKkr7wS/xqoECdh2yLGDdnXdKZHqOhMbpdkjZW8g4Hk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\app.js",
+      "SourceId": "AutocompleteApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\",
+      "BasePath": "_content/AutocompleteApi",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s0tlrcuktw",
+      "Integrity": "LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\index.html",
+      "SourceId": "AutocompleteApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\",
+      "BasePath": "_content/AutocompleteApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0pv310ch5g",
+      "Integrity": "zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\styles.css",
+      "SourceId": "AutocompleteApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\",
+      "BasePath": "_content/AutocompleteApi",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "401knxayk5",
+      "Integrity": "7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\ptzbebwk1d-s0tlrcuktw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000798084597"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1252"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKkr7wS/xqoECdh2yLGDdnXdKZHqOhMbpdkjZW8g4Hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\ptzbebwk1d-s0tlrcuktw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKkr7wS/xqoECdh2yLGDdnXdKZHqOhMbpdkjZW8g4Hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YKkr7wS/xqoECdh2yLGDdnXdKZHqOhMbpdkjZW8g4Hk="
+        }
+      ]
+    },
+    {
+      "Route": "app.s0tlrcuktw.js",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\ptzbebwk1d-s0tlrcuktw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000798084597"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1252"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKkr7wS/xqoECdh2yLGDdnXdKZHqOhMbpdkjZW8g4Hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0tlrcuktw"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "app.s0tlrcuktw.js",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0tlrcuktw"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LBGBpU8SNvBr3MLBfcRX6yQd5VCRmEbQchcNY2iqQ/I="
+        }
+      ]
+    },
+    {
+      "Route": "app.s0tlrcuktw.js.gz",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\ptzbebwk1d-s0tlrcuktw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKkr7wS/xqoECdh2yLGDdnXdKZHqOhMbpdkjZW8g4Hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:38:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0tlrcuktw"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YKkr7wS/xqoECdh2yLGDdnXdKZHqOhMbpdkjZW8g4Hk="
+        }
+      ]
+    },
+    {
+      "Route": "index.0pv310ch5g.html",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\1ni14haqy3-0pv310ch5g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002105263158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r98Z7wMW/F1u33QcMbOPIlnuBauPQ+V9WBUzzpA4ovE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pv310ch5g"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY="
+        }
+      ]
+    },
+    {
+      "Route": "index.0pv310ch5g.html",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pv310ch5g"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY="
+        }
+      ]
+    },
+    {
+      "Route": "index.0pv310ch5g.html.gz",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\1ni14haqy3-0pv310ch5g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r98Z7wMW/F1u33QcMbOPIlnuBauPQ+V9WBUzzpA4ovE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pv310ch5g"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r98Z7wMW/F1u33QcMbOPIlnuBauPQ+V9WBUzzpA4ovE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\1ni14haqy3-0pv310ch5g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002105263158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r98Z7wMW/F1u33QcMbOPIlnuBauPQ+V9WBUzzpA4ovE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJtXqHg3L9WzBobWXEqvdxGslrRG/FqkXGvpwy74vcY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\1ni14haqy3-0pv310ch5g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r98Z7wMW/F1u33QcMbOPIlnuBauPQ+V9WBUzzpA4ovE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 00:03:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r98Z7wMW/F1u33QcMbOPIlnuBauPQ+V9WBUzzpA4ovE="
+        }
+      ]
+    },
+    {
+      "Route": "styles.401knxayk5.css",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\02zidla84v-401knxayk5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000616522811"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1621"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rf19rhLrxeQc+/NSScF89FF1862Uh8H9lia85zo1nr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "401knxayk5"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.401knxayk5.css",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "401knxayk5"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.401knxayk5.css.gz",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\02zidla84v-401knxayk5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rf19rhLrxeQc+/NSScF89FF1862Uh8H9lia85zo1nr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "401knxayk5"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rf19rhLrxeQc+/NSScF89FF1862Uh8H9lia85zo1nr8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\02zidla84v-401knxayk5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000616522811"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1621"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rf19rhLrxeQc+/NSScF89FF1862Uh8H9lia85zo1nr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ALiozlyx56lOHQFH1nfyVqOc1sHaV1VOXZjgv+HCMM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\Users\\MAQ\\Desktop\\AutocompleteApi\\obj\\Debug\\net9.0\\compressed\\02zidla84v-401knxayk5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rf19rhLrxeQc+/NSScF89FF1862Uh8H9lia85zo1nr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rf19rhLrxeQc+/NSScF89FF1862Uh8H9lia85zo1nr8="
+        }
+      ]
+    }
+  ]
+}

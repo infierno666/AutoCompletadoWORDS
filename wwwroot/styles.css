@@ -1,0 +1,194 @@
+/* Fondo animado con gradiente */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, #06eaa5, #25d8fc, #c30eff, #0048ff);
+    background-size: 400% 400%;
+    animation: gradientShift 10s ease infinite;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 0%; }
+    25% { background-position: 100% 0%; }
+    50% { background-position: 100% 100%; }
+    75% { background-position: 0% 100%; }
+    100% { background-position: 0% 0%; }
+}
+
+
+/* Contenedor principal */
+.container {
+    width: 100%;
+    max-width: 600px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 15px;
+    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    backdrop-filter: blur(10px); /* Efecto de difuminado en el fondo */
+    animation: fadeIn 2s ease-in-out;
+    overflow-y: auto; /* Permite el desplazamiento vertical */
+    max-height: calc(100vh - 2cm); /* Limita el alto con espacio arriba y abajo */
+}
+
+/* Animación para el fade-in del contenedor */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* Estilo de los encabezados */
+h1 {
+    font-size: 2.8em;
+    margin-bottom: 30px;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* Estilo común para input y botones */
+input, button {
+    padding: 12px;
+    margin: 12px 0;
+    font-size: 16px;
+    width: 100%;
+    border-radius: 8px;
+    border: none;
+    box-sizing: border-box;
+}
+
+/* Estilo específico para el input */
+input[type="text"] {
+    background-color: #f1f1f1;
+    color: #333;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Botón animado */
+.button {
+    background-color: #2575fc;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: #6a11cb;
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Contenedor de sugerencias */
+#suggestions {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo de los elementos de sugerencia */
+.suggestion-item {
+    margin: 8px 0;
+    padding: 10px;
+    background-color: #4e73df;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.suggestion-item:hover {
+    background-color: #6a11cb;
+    transform: translateX(5px); /* Desplazamiento suave al hacer hover */
+}
+
+/* Estilo para los formularios de agregar y eliminar palabra */
+.actions {
+    margin-top: 30px;
+}
+
+/* Estilo del mensaje */
+.message {
+    display: none;
+    margin-top: 20px;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 1.1em;
+    font-weight: 500;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.message.success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.message.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+/* Personalización de la barra de desplazamiento */
+.container::-webkit-scrollbar {
+    width: 8px; /* Ancho de la barra de desplazamiento */
+}
+
+.container::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.3); /* Color de la pista de la barra de desplazamiento */
+    border-radius: 10px; /* Bordes redondeados en la pista */
+}
+
+.container::-webkit-scrollbar-thumb {
+    background-color: #2575fc; /* Color del pulgar (la parte que se desliza) */
+    border-radius: 10px; /* Bordes redondeados en el pulgar */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Sombra para darle un efecto tridimensional */
+}
+
+.container::-webkit-scrollbar-thumb:hover {
+    background-color: #6a11cb; /* Color del pulgar al pasar el mouse por encima */
+}
+
+/* Personalización de la barra de desplazamiento en Firefox */
+.container {
+    scrollbar-width: thin; /* Barra de desplazamiento delgada */
+    scrollbar-color: #2575fc rgba(255, 255, 255, 0.3); /* Color del pulgar y de la pista */
+}
+
+/* Contenedor para el gráfico del Trie */
+#trie-container {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    overflow-x: auto;
+    text-align: center;
+}
+
+#trie-container h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* El gráfico SVG donde se dibujará el Trie */
+#trie-graph {
+    border: 1px solid #ccc;
+    background-color: white;
+    width: 100%;
+    height: 400px;
+    display: block; /* Asegura que el gráfico ocupe todo el ancho disponible */
+}
